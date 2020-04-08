@@ -1,9 +1,9 @@
 # Site settings
-title: LiMin Blog
-SEOTitle: 李敏的博客 | LiMin Blog
+title: Limin Blog
+SEOTitle: 李小白的博客 | Limin Blog
 header-img: img/home-bg-art.jpg
 email: 18269748170@163.com
-description: "This is LiMin's blog"
+description: "This is Limin's blog"
 url: "https://lixiaobai.site"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -78,7 +78,7 @@ ba_track_id: [6a65c9f2940dac22a3615b80bd06ce92]
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "业精于勤而荒于嬉，行成于思而毁于随"
-sidebar-avatar: https://aerozf.oss-cn-beijing.aliyuncs.com/duhaihui.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://fanfile.oss-cn-hangzhou.aliyuncs.com/LiBlog/images/limin.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
