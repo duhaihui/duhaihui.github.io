@@ -288,4 +288,4 @@ tags:
 <div align="center" markdown="0"><font size="2">图片名称</font> </div>
 
 ## 结语
-记录生活，记录精彩，希望你使用愉快，杜海会。
+记录生活，记录精彩，希望你使用愉快，李敏。
