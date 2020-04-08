@@ -1,10 +1,10 @@
 # Site settings
-title: Haihui Blog
-SEOTitle: 杜海会的博客 | Haihui Blog
+title: LiMin Blog
+SEOTitle: 李敏的博客 | LiMin Blog
 header-img: img/home-bg-art.jpg
 email: 18269748170@163.com
-description: "This is Haihui's blog"
-url: "https://www.duhaihui.site"              # your host, for absolute URL
+description: "This is LiMin's blog"
+url: "https://lixiaobai.site"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -14,7 +14,7 @@ future: true
 RSS: false
 #weibo_username:     auroraus
 #zhihu_username:     huxpro
-#github_username:    duhaihui
+github_username:    lixiaobai1029
 #twitter_username:   huxpro
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
